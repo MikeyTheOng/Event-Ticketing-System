@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:sqlite:app.db
+  jpa:
+    database-platform: org.sqlite.hibernate.dialect.SQLiteDialect
+    hibernate:
+      ddl-auto: update
+  # logging:
+  #   level:
+  #     com.baeldung.testloglevel: DEBUG
+  #     root: INFO
+  #   file: applog.log

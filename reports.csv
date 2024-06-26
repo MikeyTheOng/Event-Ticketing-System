@@ -1,0 +1,2 @@
+ReportID,EventID,EventName,Venue,StartTime,NumTotalTickets,NumTicketsAvailable,Price,CancellationFee,Thumbnail,NumTicketsSold,Revenue,NumAttended
+4,3,2024 IU H.E.R. WORLD TOUR CONCERT IN SINGAPORE,Singapore Indoor Stadium,2024-04-03T20:00,10000,10000,100.0,0.0,https://static.ticketmaster.sg/images/activity/24sg_iu2024_ac516b9831976ec0b047eeaa54d4d86e.jpg,0,0.0,0
